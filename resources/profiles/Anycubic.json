@@ -155,6 +155,10 @@
             "sub_path": "process/0.12mm Detail @Anycubic Kobra 3 0.4 nozzle.json"
         },
         {
+            "name": "0.12mm Detail @Anycubic Kobra 2 Neo 0.4 nozzle",
+            "sub_path": "process/0.12mm Detail @Anycubic Kobra 2 Neo 0.4 nozzle.json"
+        },
+        {
             "name": "0.15mm Optimal @Anycubic 4MaxPro2",
             "sub_path": "process/0.15mm Optimal @Anycubic 4MaxPro2.json"
         },
@@ -189,6 +193,10 @@
         {
             "name": "0.16mm Optimal @Anycubic Kobra 2 Pro 0.4 nozzle",
             "sub_path": "process/0.16mm Optimal @Anycubic Kobra 2 Pro 0.4 nozzle.json"
+        },
+        {
+            "name": "0.16mm Standard @Anycubic Kobra 2 Neo 0.4 nozzle",
+            "sub_path": "process/0.16mm Standard @Anycubic Kobra 2 Neo 0.4 nozzle.json"
         },
         {
             "name": "0.16mm Optimal @Anycubic Kobra 3 0.4 nozzle",
@@ -265,6 +273,10 @@
         {
             "name": "0.28mm SuperDraft @Anycubic Kobra 3 0.4 nozzle",
             "sub_path": "process/0.28mm SuperDraft @Anycubic Kobra 3 0.4 nozzle.json"
+        },
+        {
+            "name": "0.28mm Standard @Anycubic Kobra 2 Neo 0.4 nozzle",
+            "sub_path": "process/0.28mm Standard @Anycubic Kobra 2 Neo 0.4 nozzle.json"
         },
         {
             "name": "0.30mm Draft @Anycubic 4MaxPro2",
